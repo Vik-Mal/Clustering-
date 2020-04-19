@@ -3,3 +3,4 @@ Since this kind of sgementation have not a fixed boundary to isolate its clients
 need a different approach.
 Clustering of clients is done based on two parameters,annual income and spending score of the clients.
 Where spending score represent the purchasing power of individuals.
+clustering1.py code is with KMeans approach and clustering2.py has hierearchical clustering approach.
